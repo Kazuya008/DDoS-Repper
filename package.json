@@ -1,0 +1,12 @@
+{
+  "name": "bot-telegram-standar",
+  "version": "1.0.0",
+  "description": "Bot Telegram standar pakai node-telegram-bot-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
